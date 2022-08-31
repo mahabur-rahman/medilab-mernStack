@@ -4,6 +4,7 @@
     "private": true,
     "proxy": "http://localhost:4000/api/",
     "dependencies": {
+        "@emailjs/browser": "^3.6.2",
         "@fancyapps/ui": "4.0.0-beta.3",
         "@testing-library/jest-dom": "^5.14.1",
         "@testing-library/react": "^12.0.0",

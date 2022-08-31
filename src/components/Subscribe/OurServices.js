@@ -9,31 +9,31 @@ const OurServices = ({ title }) => {
     {
       id: 1,
       icon: <BiChevronRight />,
-      label: "Web Design",
+      label: "Faculty",
       url: "/",
     },
     {
       id: 2,
       icon: <BiChevronRight />,
-      label: "Web Development",
+      label: "Patient Care",
       url: "/",
     },
     {
       id: 3,
       icon: <BiChevronRight />,
-      label: "Product Management",
+      label: "Research",
       url: "/",
     },
     {
       id: 4,
       icon: <BiChevronRight />,
-      label: "Marketing",
+      label: "Education",
       url: "/",
     },
     {
       id: 5,
       icon: <BiChevronRight />,
-      label: "Graphic Design",
+      label: "UT rec center",
       url: "/",
     },
   ];

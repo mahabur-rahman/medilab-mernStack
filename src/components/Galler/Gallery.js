@@ -17,7 +17,7 @@ const Gallery = () => {
             <SectionTitle
               title={"Gallery"}
               text={
-                "Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas."
+                "Clinical Skills Education and Technology Center. By applying our knowledge base in a simulated patient interaction or to solve clinical case studies, we can hone our skills and really solidify our understanding of medicine"
               }
             />
           </Col>

@@ -14,8 +14,7 @@ const Banner = () => {
             <div className="banner_content mt-5">
               <h1 className="banner_title mt-4">Welcome to Medilab</h1>
               <h2 className="banner_subTitle mb-4 pb-3">
-                We are team of talented designers & Developer are making
-                websites.
+               Meet the doctors, specialists, and medical experts who create our medical content
               </h2>
               {/* <a href="#about" className="get_started">
                 Get Started

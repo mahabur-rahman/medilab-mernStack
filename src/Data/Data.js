@@ -48,20 +48,20 @@ export const cardData = [
   {
     id: 1,
     icon: <BiReceipt />,
-    title: "Corporis voluptates sit",
-    text: "Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip",
+    title: "Qualified medical experts",
+    text: "Every medical content creator completes our thorough process before their work",
   },
   {
     id: 2,
     icon: <BiCubeAlt />,
-    title: "Ullamco laboris ladore pan",
-    text: "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt",
+    title: "Epidemiology statistics",
+    text: "Checks accredited medical information sources and new publications",
   },
   {
     id: 3,
     icon: <BiImages />,
-    title: "Labore consequatur",
-    text: "Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere",
+    title: "Symptom assessment",
+    text: "connects to our symptom assessment. This helps people check their health",
   },
 ];
 
@@ -70,43 +70,43 @@ export const servicesCardData = [
   {
     id: 1,
     icon: <FaHeartbeat />,
-    label: "Lorem Ipsum",
-    text: "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi",
+    label: "Laser Focus Technique",
+    text: "We learn the most effective ways to reach your ideal client or patient",
     url: "/",
   },
   {
     id: 2,
     icon: <FaPills />,
-    label: "Sed ut perspiciatis",
-    text: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
+    label: "Breast Center",
+    text: "Our breast specialists help women with breast cancer, non-cancerous tumors, lumps, breast pain, fibrocystic disease and other conditions",
     url: "/",
   },
   {
     id: 3,
     icon: <FaHospitalUser />,
-    label: "Magni Dolores",
-    text: "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia",
+    label: "Breastfeeding Clinic",
+    text: "Breastfeeding Clinic’s team of specialized nurses and physicians will be there to consult and assist the new mother experience",
     url: "/",
   },
   {
     id: 4,
     icon: <FaDna />,
-    label: "Nemo Enim",
-    text: "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis",
+    label: "Bumrungrad Heart Valve Center",
+    text: " The center is staffed with a team of specialist doctors, including cardiologists, cardiac surgeons, cardiac anesthesiologists",
     url: "/",
   },
   {
     id: 5,
     icon: <FaWheelchair />,
-    label: "Dele cardo",
-    text: "Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur",
+    label: "Holistic Wound Care Center",
+    text: "The best solution for complex diseases. Because care does not end at the hospital",
     url: "/",
   },
   {
     id: 6,
     icon: <FaNotesMedical />,
-    label: "Divera don",
-    text: "Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur",
+    label: "Colorectal Surgery Center",
+    text: "Center for the assessment, diagnosis, and treatment of colorectal conditions",
     url: "/",
   },
 ];
@@ -120,48 +120,50 @@ export const tabContentData = [
     title: "Cardiology",
     imgSrc: tabImgOne,
     subText:
-      "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka",
-    para: "Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem  quaerat quos qui similique accusamus nostrum rem vero",
+      "Doctors in this department give anesthetic for operations and procedures. An anesthetic is a drug or agent that produces a complete or partial loss of feeling.",
+    para: "Provides medical care to patients who have problems with their heart or circulation. (Sterile Processing Department (SPD) - Sterile Processing - Central Supply Department (CSD) - Central Supply) - A place in hospitals and other health care facilities that performs sterilization and other actions on medical equipment, devices, and consumables.",
   },
   {
     id: 2,
     eventKey: "second",
     label: "Neurology",
-    title: "Et blanditiis nemo veritatis excepturi",
+    title:
+      "Monitors and assesses patients with various kidney (renal) problems and conditions.",
     imgSrc: tabImgTwo,
     subText:
-      "Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka",
-    para: "Ea ipsum voluptatem consequatur quis est. Illum error ullam omnis quia et reiciendis sunt sunt est. Non aliquid repellendus itaque accusamus eius et velit ipsa voluptates. Optio nesciunt eaque beatae accusamus lerode pakto madirna desera vafle de nideran pal",
+      "Also called intensive care, this department is for seriously ill patients.",
+    para: "(Cardiac intensive care unit (CICU) - A hospital ward specialized in the care of patients with heart attacks, unstable angina, cardiac dysrhythmia and other cardiac conditions that require continuous monitoring and treatment.",
   },
   {
     id: 3,
     eventKey: "third",
     label: "Hepatology",
-    title: "Impedit facilis occaecati odio neque aperiam sit",
+    title:
+      "Treats conditions related to the musculoskeletal, joints, ligaments, bones, muscles, tendons and nerves.",
     imgSrc: tabImgThree,
-    subText:
-      "Eos voluptatibus quo. Odio similique illum id quidem non enim fuga. Qui natus non sunt dicta dolor et. In asperiores velit quaerat perferendis aut",
-    para: "Iure officiis odit rerum. Harum sequi eum illum corrupti culpa veritatis quisquam. Neque necessitatibus illo rerum eum ut. Commodi ipsam minima molestiae sed laboriosam a iste odio. Earum odit nesciunt fugiat sit ullam. Soluta et harum voluptatem optio quae",
+    subText: "Also known as X-Ray Department and/or Radiology Department.",
+    para: "Patients who don't need to stay in a ward are transferred to the lounge on the day of discharge. Many hospitals now have discharge lounges with facilities such as TV's, radio, puzzles, magazines, books and newspapers.",
   },
   {
     id: 4,
     eventKey: "fourth",
     label: "Pediatrics",
     title:
-      "Fuga dolores inventore laboriosam ut est accusamus laboriosam dolore",
+      "This department investigates and treats digestive and upper and lower gastrointestinal diseases",
     imgSrc: tabImgFour,
     subText:
-      "Totam aperiam accusamus. Repellat consequuntur iure voluptas iure porro quis delectus",
-    para: "Eaque consequuntur consequuntur libero expedita in voluptas. Nostrum ipsam necessitatibus aliquam fugiat debitis quis velit. Eum ex maxime error in consequatur corporis atque. Eligendi asperiores sed qui veritatis aperiam quia a laborum inventore",
+      "Investigates and treats problems relating to the female urinary tract and reproductive organs, such as Endometriosis, infertility and incontinence. These hospital services work with the laboratory. In addition doctors treat blood diseases and malignancies related to the blood.",
   },
   {
     id: 5,
     eventKey: "fifth",
     label: "Eye Care",
-    title: "Est eveniet ipsam sindera pad rone matrelat sando reda",
+    title:
+      "Responsible for drugs in a hospital, including purchasing, supply and distribution.",
     imgSrc: tabImgFive,
-    subText: "Omnis blanditiis saepe eos autem qui sunt debitis porro quia.",
-    para: "Exercitationem nostrum omnis. Ut reiciendis repudiandae minus. Omnis recusandae ut non quam ut quod eius qui. Ipsum quia odit vero atque qui quibusdam amet. Occaecati sed est sint aut vitae molestiae voluptate vel",
+    subText:
+      "Maternity wards provide antenatal care, delivery of babies and care during childbirth",
+    para: "Intensive Therapy Unit, Intensive Treatment Unit (ITU), Critical Care Unit (CCU) - A special department of a hospital or health care facility that provides intensive treatment medicine and caters to patients with severe and life-threatening illnesses and injuries, which require constant, close monitoring and support from specialist equipment and medications.",
   },
 ];
 
@@ -171,28 +173,28 @@ export const doctorsData = [
     imgScr: cardImgOne,
     name: "Walter White",
     designation: "Chief Medical Officer",
-    text: "Explicabo voluptatem mollitia et repellat qui dolorum quasi",
+    text: "Diabetes, Thyroid & Hormone Specialist",
     icons: [<FaTwitter />, <FaFacebookF />, <FaInstagram />, <FaLinkedin />],
   },
   {
     imgScr: cardImgTwo,
     name: "Sarah Jhonson",
     designation: "Anesthesiologist",
-    text: "Aut maiores voluptates amet et quis praesentium qui senda para",
+    text: "Breast, Colorectal & Laparoscopic Surgeon",
     icons: [<FaTwitter />, <FaFacebookF />, <FaInstagram />, <FaLinkedin />],
   },
   {
     imgScr: cardImgThree,
     name: "William Anderson",
     designation: "Cardiology",
-    text: "Quisquam facilis cum velit laborum corrupti fuga rerum quia",
+    text: "Skin & Sex Specialist",
     icons: [<FaTwitter />, <FaFacebookF />, <FaInstagram />, <FaLinkedin />],
   },
   {
     imgScr: cardImgFour,
     name: "Amanda Jepson",
     designation: "Neurosurgeon",
-    text: "Dolorum tempora officiis odit laborum officiis et et accusamus",
+    text: "Chest & Asthma Specialist",
     icons: [<FaTwitter />, <FaFacebookF />, <FaInstagram />, <FaLinkedin />],
   },
 ];
@@ -202,33 +204,32 @@ export const faqData = [
   {
     icon: <FaRegQuestionCircle />,
     eventKey: 0,
-    label: "Non consectetur a erat nam at lectus urna duis?",
-    text: "Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.",
+    label: "What are the documents required for the admissions?",
+    text: "Passport of students And Parents both, Marksheets 10th, 11th, and 12th, Address Proof, Birth Certificate, School Pass-out certificates, School leaving certificate, Migration Certificates if any And NEET-UG Score card",
   },
   {
     icon: <FaRegQuestionCircle />,
     eventKey: 1,
-    label: "Feugiat scelerisque varius morbi enim nunc?",
-    text: "Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.",
+    label: "Need fees structures for all colleges?",
+    text: "Send your scanned documents during registration we’ll send you the fees structure and provisional admission confirmation email. Mail us info [@] mbbsbangladesh.com",
   },
   {
     icon: <FaRegQuestionCircle />,
     eventKey: 2,
-    label: "Dolor sit amet consectetur adipiscing elit?",
-    text: "Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis",
+    label: "How much amount i have to pay?",
+    text: "You have to pay exact fees and all charges fee during the admission process, all charges are fixed by respective individual Medical Colleges. All fees Payment directly to colleges account, you need to transfer fee in US Dollars via T.T (Telegraphic Transfer) from your local bank in name of College account.",
   },
   {
     icon: <FaRegQuestionCircle />,
     eventKey: 3,
-    label: "Tempus quam pellentesque nec nam aliquam sem et tortor consequat?",
-    text: "Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in.",
+    label: "How to apply for government medical college?",
+    text: "If you got 98%+ in Biology and overall 90%+ you are eligible to apply to Government Medical Colleges, under SAARC Scholarship Program.",
   },
   {
     icon: <FaRegQuestionCircle />,
     eventKey: 4,
-    label:
-      "Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor?",
-    text: "Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque.",
+    label: "Do not have passport?",
+    text: "Apply for Passport refer Government of India Passport Seva Kendra website and apply online www.passport.gov.in",
   },
 ];
 
@@ -242,7 +243,7 @@ export const testimonialData = [
     quoteRight: <RiDoubleQuotesR />,
     designation: "Ceo & Founder",
     comment:
-      "Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.",
+      "The best graduate of this year is Aena Saeed. She has been awarded with Sir Ziauddin Gold Medal for her extraordinary academic performance in the field of Medicine. She has achieved distinction in 9 subjects.",
   },
   {
     id: 2,
@@ -252,7 +253,7 @@ export const testimonialData = [
     quoteRight: <RiDoubleQuotesR />,
     designation: "Designer",
     comment:
-      "Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.",
+      "As an M.B.B.S alumnus today, dating back to those tandem steps entering medical college with high hopes of parents, peers and a huge responsibility to bestow on young reluctant shoulders, Ziauddin University has laid down",
   },
   {
     id: 3,
@@ -262,7 +263,7 @@ export const testimonialData = [
     quoteRight: <RiDoubleQuotesR />,
     designation: "Ceo & Founder",
     comment:
-      "Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.",
+      "One of the things I love most about OU College of Medicine is the emphasis on different learning styles.",
   },
   {
     id: 4,
@@ -272,7 +273,7 @@ export const testimonialData = [
     quoteRight: <RiDoubleQuotesR />,
     designation: "Freelancer",
     comment:
-      "Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.",
+      "At the University o f Oklahoma College of Medicine, you really feel like the experience and learning is tailored to you. ",
   },
   {
     id: 5,
@@ -282,7 +283,7 @@ export const testimonialData = [
     quoteRight: <RiDoubleQuotesR />,
     designation: "Entrepreneur",
     comment:
-      "Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.",
+      "he College of Medicine fosters what is perhaps the best sense of community in the nation. The modules within the college exemplify this idea not only academically",
   },
 ];
 

@@ -9,23 +9,23 @@ const AboutIconBox = () => {
     {
       id: 1,
       icon: <BiFingerprint />,
-      heading: "Lorem Ipsum",
+      heading: "Conversation",
       url: "/",
-      text: "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+      text: "We take our values into every conversation and all the work we do.",
     },
     {
       id: 2,
       icon: <BiGift />,
-      heading: "Nemo Enim",
+      heading: "Exclusive treatment",
       url: "/",
-      text: "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque",
+      text: "It's a part of who we are, not just what we say, and that's what makes us special.",
     },
     {
       id: 3,
       icon: <BiAtom />,
-      heading: "Dine Pad",
+      heading: "Client trust",
       url: "/",
-      text: "Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt minus aut eligendi omnis",
+      text: "That's why our clients work with us long term. They know they can trust us.",
     },
   ];
 

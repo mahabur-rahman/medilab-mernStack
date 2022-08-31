@@ -35,9 +35,9 @@ const Subscribe = () => {
           <Col xl={4} lg={4} md={6} sm={12}>
             <SubForm
               title={"Join Our Newsletter"}
-              text={
-                "Tamen quem nulla quae legam multos aute sint culpa legam noster magna"
-              }
+              // text={
+              //   "Tamen quem nulla quae legam multos aute sint culpa legam noster magna"
+              // }
             />
           </Col>
         </Row>

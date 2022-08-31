@@ -15,7 +15,7 @@ const Services = () => {
         <SectionTitle
           title={"Services"}
           text={
-            "Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas."
+            "Most healthcare facilities just want more patients to know them, trust them, and schedule more appointments. That’s why we developed our own system, customized to the needs of your facility and your future patients."
           }
         />
         {/* component */}

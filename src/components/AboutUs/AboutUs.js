@@ -9,10 +9,10 @@ import AboutIconBox from "./AboutIconBox";
 import Fancybox from "./fancybox.js";
 
 const AboutUs = () => {
-  const aboutTitle = "Enim quis est voluptatibus aliquid consequatur fugiat";
+  const aboutTitle = "OUR VALUES DEFINE US, AND ALSO HELP MAKE YOU SUCCESSFUL";
   const video = "https://www.youtube.com/watch?v=u6BOC7CDUTQ";
   const text =
-    "Esse voluptas cumque vel exercitationem. Reiciendis est hic accusamus. Non ipsam et sed minima temporibus laudantium. Soluta voluptate sed facere corporis dolores excepturi. Libero laboriosam sint et id nulla tenetur Suscipit aut voluptate.";
+    "EInspired to make a difference, he established a nonprofit addiction treatment center. Digitalis exists to fight addiction and save lives.";
 
   return (
     <section id="aboutUs">
